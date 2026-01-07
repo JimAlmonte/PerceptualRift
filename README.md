@@ -53,21 +53,21 @@ The following diagrams and visuals document the system architecture, gameplay lo
 These UML diagrams represent the primary Blueprint classes and their responsibilities within the system.
 
 #### BP_IllusionGroup
-![BP_IllusionGroup UML](screenshots/BP_IllusionGroup_UML.png)
+![BP_IllusionGroup UML](screenshots/BP_IllusionGroup%20UML.png)
 
 *Figure 1: UML diagram for BP_IllusionGroup showing alignment detection and solve logic.*
 
 ---
 
 #### BP_Block
-![BP_Block UML](screenshots/BP_Block_UML.png)
+![BP_Block UML](screenshots/BP_Block%20UML.png)
 
 *Figure 2: UML diagram for BP_Block showing visibility and collision behavior.*
 
 ---
 
 #### BP_MergedBridge
-![BP_MergedBridge UML](screenshots/BP_MergedBridge_UML.png)
+![BP_MergedBridge UML](screenshots/BP_MergedBridge%20UML.png)
 
 *Figure 3: UML diagram for BP_MergedBridge showing reveal and collision enablement.*
 
