@@ -42,6 +42,65 @@ A notable challenge was implementing stable perspective alignment using screen-s
 2. Play the StartMenuMap level
 3. Select Start Game
 
+## Visual Architecture and Design Artifacts
+
+The following diagrams and visuals document the system architecture, gameplay logic, and user interface flow for the project. These artifacts support the traceability between requirements, design, implementation, and testing.
+
+---
+
+### UML Class Diagrams
+
+These UML diagrams represent the primary Blueprint classes and their responsibilities within the system.
+
+#### BP_IllusionGroup
+![BP_IllusionGroup UML](screenshots/BP_IllusionGroup_UML.png)
+
+*Figure 1: UML diagram for BP_IllusionGroup showing alignment detection and solve logic.*
+
+---
+
+#### BP_Block
+![BP_Block UML](screenshots/BP_Block_UML.png)
+
+*Figure 2: UML diagram for BP_Block showing visibility and collision behavior.*
+
+---
+
+#### BP_MergedBridge
+![BP_MergedBridge UML](screenshots/BP_MergedBridge_UML.png)
+
+*Figure 3: UML diagram for BP_MergedBridge showing reveal and collision enablement.*
+
+---
+
+### Activity Diagram: Puzzle Solve Flow
+
+This activity diagram illustrates the gameplay flow from player alignment through puzzle solve and bridge reveal.
+
+![Puzzle Solve Activity Diagram](screenshots/Puzzle%20Solve%20Activity%20Diagram.png)
+
+*Figure 4: Activity diagram showing the puzzle solve workflow.*
+
+---
+
+### UI Flow Diagram
+
+The UI flow diagram shows navigation between the Main Menu, Gameplay, and Pause Menu states.
+
+![UI Flow Diagram](screenshots/UI%20Flowchart.png)
+
+*Figure 5: User interface flow diagram.*
+
+---
+
+### Capstone Showcase Poster
+
+The following poster was created for the Technology Capstone Showcase and summarizes the project at a high level.
+
+> Note: The poster is provided as a PowerPoint file in the repository.
+
+[CST-452 Showcase Poster](screenshots/CST_452_ShowcasePoster.pptx)
+
 ## Repository
 Source code is maintained in a private Git repository and available upon request for academic review.
 
