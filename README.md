@@ -101,6 +101,13 @@ The following poster was created for the Technology Capstone Showcase and summar
 
 [CST-452 Showcase Poster](screenshots/CST_452_ShowcasePoster.pptx)
 
+## Final Project Demonstration
+
+The final project demonstration video presents the completed vertical slice of the *Perceptual Rift* optical illusion puzzle game. The video demonstrates core gameplay functionality, user interface behavior, and completed testing aligned with the project requirements.
+
+🎥 **Final Presentation Video**  
+[CST_452 Final Presentation.mp4](CST_452_Final_Presentation.mp4)
+
 ## Repository
 Source code is maintained in a private Git repository and available upon request for academic review.
 
