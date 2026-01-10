@@ -106,7 +106,7 @@ The following poster was created for the Technology Capstone Showcase and summar
 The final project demonstration video presents the completed vertical slice of the *Perceptual Rift* optical illusion puzzle game. The video demonstrates core gameplay functionality, user interface behavior, and completed testing aligned with the project requirements.
 
 🎥 **Final Presentation Video**  
-[CST_452 Final Presentation.mp4]([CST_452_Final_Presentation.mp4](https://mygcuedu6961-my.sharepoint.com/:v:/r/personal/jalmonte3_my_gcu_edu/Documents/CST_452%20Final%20Presentation.mp4?csf=1&web=1&e=UogcmK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+[CST_452 Final Presentation.mp4](https://mygcuedu6961-my.sharepoint.com/:v:/r/personal/jalmonte3_my_gcu_edu/Documents/CST_452%20Final%20Presentation.mp4?csf=1&web=1&e=UogcmK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Repository
 Source code is maintained in a private Git repository and available upon request for academic review.
